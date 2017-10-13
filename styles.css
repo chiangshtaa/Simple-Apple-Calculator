@@ -1,0 +1,61 @@
+.num {
+  margin: 2px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+.other {
+  margin: 2px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+#equals {
+  margin: 2px;
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+#display {
+  text-align: right;
+  background-color: #636363;
+  color: white;
+  height: 50px;
+  margin: 3px;
+  line-height: 50px;
+}
+
+#zero {
+  width: 90px;
+}
+
+.other {
+  background-color: grey;
+}
+
+.operator, #equals {
+  background-color: orange;
+}
+
+.container {
+  width: 200px;
+  border: 1px solid black;
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+}
